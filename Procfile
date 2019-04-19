@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT esv_2441.wsgi:application
